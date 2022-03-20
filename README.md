@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EzraChai
-- 👀 I’m interested in coding? not sure hahah
+-  Currently working with Golang 
 - 💞️ I’m looking to collaborate on anyone.
 - 📫 How to reach me? juanzhe2@gmail.com
 
