@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EzraChai
 - 💞️ I’m looking to collaborate on anyone.
-- 📫 How to reach me? juanzhe2@gmail.com
+- 📫 How to reach me? juanzhe2[at]gmail.com
 - 🌐 My website https://ezrachai.pages.dev
 
 <!---
