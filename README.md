@@ -2,7 +2,7 @@
 - 💞️ I’m looking to collaborate on anyone.
 - 📫 How to reach me? juanzhe2[at]gmail.com
 - 🌐 My website https://dub.sh/ezrachai
-- 🏫 Currently study at Science University of Malaysia
+- 🏫 Currently study at Science University of Malaysia Y1S1
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y8L61VR)
 <!---
