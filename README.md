@@ -2,7 +2,7 @@
 - 💞️ I’m looking to collaborate on anyone.
 - 📫 How to reach me? juanzhe2[at]gmail.com
 - 🌐 My website https://dub.sh/ezrachai
-- 🏫 Bachelor in Software Engineering with Honours at Universiti Sains Malaysia (USM) Y2S1
+- 🏫 Bachelor in Software Engineering with Honours at Universiti Sains Malaysia (USM) Y2S2
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y8L61VR)
 <!---
