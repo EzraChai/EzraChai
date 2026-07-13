@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EzraChai
-- 💞️ I’m looking to collaborate on anyone.
+- 💞️ I’m looking for an internship haha.
 - 📫 How to reach me? juanzhe2[at]gmail.com
 - 🌐 My website https://dub.sh/ezrachai
 - 🏫 Bachelor in Software Engineering with Honours at Universiti Sains Malaysia (USM) Y2S2
